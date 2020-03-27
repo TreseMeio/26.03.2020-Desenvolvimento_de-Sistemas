@@ -1,0 +1,19 @@
+body{
+    background: blue;
+}
+p{
+    font-size: 35px;
+    font-family: Verdana;
+    color: black;
+}
+p.formato{
+    color: red;
+    font-size: 15px;
+    font-family: 'Courier New';
+    
+}
+.centro{
+    text-align: center;
+}
+h2,h3,h4{
+    color: blueviolet;
